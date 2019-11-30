@@ -1,4 +1,4 @@
-#My QGIS Project
+# My QGIS Project
 ## About QGIS
 
 [![Build Status](https://travis-ci.org/qgis/QGIS.svg?branch=master)](https://travis-ci.org/qgis/QGIS)
